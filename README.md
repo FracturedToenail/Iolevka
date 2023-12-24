@@ -1,0 +1,1 @@
+these are the ttf font files for the font i use, Iolevka, which is a custom Iosevka configuration. I personally use the ```Iolevka-ExendedExtraLight.ttf``` and ```Iolevka-ExendedExtraLightItalic.ttf``` as my primary monospaced fonts.
